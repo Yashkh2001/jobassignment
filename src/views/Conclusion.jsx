@@ -27,7 +27,7 @@ const Conclusion = () => {
 
                 <div className="col-lg-4 col-md-6 col-sm-12 card2 col-xxl-3 ">
                     <div className="card2">
-                        <i class="fas fa-helicopter fa-2x"></i>
+                        <i class="far fa-clipboard fa-2x"></i>
                         <h5>Aerial photography <span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem, deleniti?</span></h5>
                     </div>
                 </div>
