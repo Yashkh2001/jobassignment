@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/jobassignment/static/css/main.10196146.chunk.css",
+    "main.js": "/jobassignment/static/js/main.b8679441.chunk.js",
+    "main.js.map": "/jobassignment/static/js/main.b8679441.chunk.js.map",
+    "runtime-main.js": "/jobassignment/static/js/runtime-main.b4bcdb77.js",
+    "runtime-main.js.map": "/jobassignment/static/js/runtime-main.b4bcdb77.js.map",
+    "static/js/2.d1511354.chunk.js": "/jobassignment/static/js/2.d1511354.chunk.js",
+    "static/js/2.d1511354.chunk.js.map": "/jobassignment/static/js/2.d1511354.chunk.js.map",
+    "static/js/3.5de5b327.chunk.js": "/jobassignment/static/js/3.5de5b327.chunk.js",
+    "static/js/3.5de5b327.chunk.js.map": "/jobassignment/static/js/3.5de5b327.chunk.js.map",
+    "index.html": "/jobassignment/index.html",
+    "static/css/main.10196146.chunk.css.map": "/jobassignment/static/css/main.10196146.chunk.css.map",
+    "static/js/2.d1511354.chunk.js.LICENSE.txt": "/jobassignment/static/js/2.d1511354.chunk.js.LICENSE.txt",
+    "static/media/drone1.1b93e1c5.jpg": "/jobassignment/static/media/drone1.1b93e1c5.jpg",
+    "static/media/App.css": "/jobassignment/static/media/drone2.1acbcf9c.jpg",
+    "static/media/drone3.0a6a1b6e.jpg": "/jobassignment/static/media/drone3.0a6a1b6e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b4bcdb77.js",
+    "static/js/2.d1511354.chunk.js",
+    "static/css/main.10196146.chunk.css",
+    "static/js/main.b8679441.chunk.js"
+  ]
+}
